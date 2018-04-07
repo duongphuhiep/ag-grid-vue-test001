@@ -1,6 +1,7 @@
 # Demo problem with [`ag-grid-vue`](https://www.ag-grid.com/best-vuejs-data-grid/)
 
-[`ag-grid-vue`](https://www.ag-grid.com/best-vuejs-data-grid/) is no longer working with the vuejs application template
+[`ag-grid-vue`](https://www.ag-grid.com/best-vuejs-data-grid/) is no longer working with the vuejs application template.
+
 Step to reproduce the problem
 
 1) Create a new vuejs application with [vue-cli](https://github.com/vuejs/vue-cli)
