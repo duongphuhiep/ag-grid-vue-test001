@@ -41,7 +41,6 @@ export default {
   data() {
     return {
       gridOptions: {
-        enableFilter: true,
         rowData: [
           { make: "Toyota", model: "Celica", price: 35000 },
           { make: "Ford", model: "Mondeo", price: 32000 },
